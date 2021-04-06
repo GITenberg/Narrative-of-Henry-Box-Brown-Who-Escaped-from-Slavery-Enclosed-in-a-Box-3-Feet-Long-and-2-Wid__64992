@@ -6,12 +6,17 @@ contributor:
     alias: Stearns, Chas. A.
     gutenberg_agent_id: '26736'
     url: http://www.gutenberg.org/2009/agents/26736
+covers:
+- cover_type: archival
+  image_path: 64992-h/images/cover.jpg
 creator:
   author:
     agent_name: Brown, Henry Box
     gutenberg_agent_id: '53134'
     url: http://www.gutenberg.org/2009/agents/53134
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64992#Narrative-of-Henry-Box-Brown-Who-Escaped-from-Slavery-Enclosed-in-a-Box-3-Feet-Long-and-2-Wid_
 gutenberg_issued: '2021-04-05'
 gutenberg_type: Text
 identifiers:
